@@ -7,7 +7,7 @@ A deployable FastAPI service for Precision Auto Body's **Estimate parser** workf
 ## Portfolio Status
 
 - Local validation: complete
-- GitHub remote: pending re-authentication and publish
+- GitHub remote: published at https://github.com/dkdejesus/collision-estimate-parser-api
 - Railway deployment: pending dashboard deployment
 - Demo data policy: synthetic only
 
